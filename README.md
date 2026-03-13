@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro! 👋
 
 ## 💻 Sobre mim
-Atuando com Suporte e Infra de TI na MNS, desenvolvendo soluções de Visão Computacional com Python e explorando o universo Full-Stack e APIs.
+Profissional de TI e estudante de Análise e Desenvolvimento de Sistemas, com base sólida em infraestrutura e resolução de problemas. Atualmente, direciono minha carreira para o desenvolvimento de software, construindo soluções com Python, JavaScript e Node.js. Tenho forte interesse em Inteligência Artificial e Visão Computacional, desenvolvendo projetos práticos com Machine Learning, OpenCV e extração de dados. Busco oportunidades como Desenvolvedor Júnior para criar aplicações inovadoras e escaláveis.
 
 ---
 
