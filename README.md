@@ -19,9 +19,9 @@ Profissional de TI e estudante de Análise e Desenvolvimento de Sistemas, com ba
 ### 📫 Vamos nos conectar?
 <p align="left">
   <a href="mailto:phr1oliveira@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/pedro-henrique-rodrigues-b65656356/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-b65656356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
