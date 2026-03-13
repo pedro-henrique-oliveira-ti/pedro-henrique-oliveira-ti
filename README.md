@@ -14,6 +14,17 @@ Profissional de TI e estudante de Análise e Desenvolvimento de Sistemas, com ba
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Oliveira-Force&show_icons=true&theme=tokyonight)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Oliveira-Force&layout=compact&theme=tokyonight)
+---
+
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="mailto:phr1oliveira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/pedro-henrique-rodrigues-b65656356/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
