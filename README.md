@@ -11,9 +11,9 @@ Atuando com Suporte e Infra de TI na MNS, desenvolvendo soluções de Visão Com
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Oliveira-Forca&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Oliveira-Force&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Oliveira-Forca&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Oliveira-Force&layout=compact&theme=tokyonight)
 
 ---
 
