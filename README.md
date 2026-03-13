@@ -6,7 +6,7 @@ Profissional de TI e estudante de Análise e Desenvolvimento de Sistemas, com ba
 ---
 
 ### 🛠️ Minhas Habilidades
-[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,nodejs,react,html,css,mysql,github,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,js,nodejs,html,css,mysql,github,vscode)](https://skillicons.dev)
 
 ---
 
