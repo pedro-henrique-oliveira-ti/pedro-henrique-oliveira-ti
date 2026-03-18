@@ -11,7 +11,7 @@ Profissional de TI e estudante de Análise e Desenvolvimento de Sistemas, com ba
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Oliveira-Force&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedro-henrique-oliveira-ti&show_icons=true&theme=tokyonight)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Oliveira-Force&layout=compact&theme=tokyonight)
 ---
